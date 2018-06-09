@@ -143,15 +143,19 @@ p {
     .headercontainer {
         width: 90%;
     }
+    .portfoliopic {
+        max-width: 45%;
+        max-height: 45%;
+        margin: 0;
+    }
 }
 
 @media screen and (max-width: 768px) {
     .aboutsection {
-        width: 80%;
-        left: 10px;
+        width: 85%;
     }  
     .headercontainer {
-        width: 85%;
+        width: 90%;
     }
 }
 
